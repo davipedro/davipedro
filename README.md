@@ -1,10 +1,11 @@
 - 👋 Hi, I’m `@davipedro`
   
-- 👀 I’m interested in: `Back-End - Web Development`
+- 👀 I’m interested in: `Back-End and Full-Stack Web Development`
   
 - 🌱 I’m currently learning: `Java-SpringBoot and Rest APIs`
   
-- 🔭 I’m currently working on: `SpringSounds (personal full-stack project)`
+- 🔭 I’m currently working on: `SpringSounds (personal full-stack project)
+                                 to-do-list-API (personal Rest API project)`
   
 - 💞️ I’m looking to collaborate on: `open source projects and Java communitys`
   
