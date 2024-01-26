@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning: `Java-SpringBoot and Rest APIs`
   
-- 🔭 I’m currently working on: <br> `SpringSounds (full-stack project)` <br> `to-do-list-API (Rest API project)`
+- 🔭 I’m currently working on: <br>  `to-do-list-API (Rest API project)`
   
 - 💞️ I’m looking to collaborate on: `open source projects and Java communitys`
   
