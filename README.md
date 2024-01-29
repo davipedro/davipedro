@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `@davipedro`
   
-- 👀 I’m interested in: `Back-End and Full-Stack Web Development`
+- 👀 I’m interested in: `Back-End`
   
 - 🌱 I’m currently learning: `Java-SpringBoot and Rest APIs`
   
