@@ -7,8 +7,11 @@
 - 🔭 I’m currently working on:  `to-do-list-API (Rest API project)`
   
 - 💞️ I’m looking to collaborate on: `Open Source projects and Java communitys`
-  
-- 📫 How to reach me: `linkedin.com/in/davipedros/`
+
+📫 How to reach me
+```
+linkedin.com/in/davipedros/
+```
 
 <!---
 davipedro/davipedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
