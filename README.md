@@ -1,12 +1,12 @@
 - 👋 Hi, I’m `@davipedro`
   
-- 👀 I’m interested in: `Back-End`
+- 👀 I’m interested in: `Back-End Development`
   
 - 🌱 I’m currently learning: `Java-SpringBoot and Rest APIs`
   
 - 🔭 I’m currently working on:  `to-do-list-API (Rest API project)`
   
-- 💞️ I’m looking to collaborate on: `open source projects and Java communitys`
+- 💞️ I’m looking to collaborate on: `Open Source projects and Java communitys`
   
 - 📫 How to reach me: `linkedin.com/in/davipedros/`
 
