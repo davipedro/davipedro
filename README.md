@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on:  `to-do-list-API (Rest API project)`
   
-- 💞️ I’m looking to collaborate on: `Open Source projects and Program communitys`
+- 💞️ I’m looking to collaborate on: `Open Source projects and Programming communitys`
 
 📫 How to reach me
 ```
