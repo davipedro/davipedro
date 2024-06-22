@@ -32,12 +32,15 @@
   </tr>
 </table>
 
+<h3>📫 How to reach me:</h3>
 <div>
-    <h3>📫 How to reach me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/davipedros/"/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    <img src="https://img.shields.io/badge/Twitter/x-14171A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </p>
+  <p>
+    <a href="https://x.com/davi_pedros"/>
+    <img src="https://img.shields.io/badge/Twitter/x-14171A?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" />
   </p>
 </div>
 
