@@ -26,7 +26,7 @@
     </td>
     <td>
       <a>
-        <img src="https://github.com/davipedro/davipedro/assets/131397328/bd8dd602-0061-4998-92ab-8b6eb39a7ffc" alt="🚧Under Construction🚧" style="width: 250px;" />
+        <img src="https://github.com/davipedro/davipedro/assets/131397328/e50231b9-6899-4c03-8d34-e5b871df7c8f" alt="🚧Under Construction🚧" style="width: 250px;" />
       </a>
     </td>
   </tr>
