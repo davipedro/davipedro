@@ -2,17 +2,20 @@
 
 <h2 align="center">Web/Software Development Student</h2>
 
+<h3 align="center">Interessado em:</h3>
 <table align="center">
   <tr>
     <td>
-      <h3 align="center">Interessado em:</h3>
-      <br>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>Desenvolvimento de software</li>
-        <li>Arquitetura de sistemas</li>
-      </ul>
-      <br>
+      Desenvolvimento de software
     </td>
+    <td>
+      Arquitetura de sistemas
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="right">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,js,react,html,css,vscode,mysql,postgres,postman,docker,git,bash,aws&theme=dark&perline=4" alt="My Skills" />
