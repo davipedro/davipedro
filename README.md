@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I’m `@davipedro`</h1>
+<h1>👋 Hi, I’m `@davipedro`</h1>
 
-<h2 align="center">Web/Software Development Student</h2>
+<h2>Web/Software Development Student</h2>
 
-<h3 align="center">Interessado em:</h3>
-<table align="center">
+<h3>Interessado em:</h3>
+<table>
   <tr>
     <td>
       Desenvolvimento de software
@@ -11,10 +11,13 @@
     <td>
       Arquitetura de sistemas
     </td>
+    <td>
+      Voluntariado
+    </td>
   </tr>
 </table>
 
-<table align="center">
+<table>
   <tr>
     <td align="right">
       <a href="https://skillicons.dev">
@@ -23,13 +26,13 @@
     </td>
     <td>
       <a>
-        <img src="https://github.com/davipedro/davipedro/assets/131397328/970d9b63-a5fe-47a9-8e79-6360ce3c9348" alt="🚧Under Construction🚧" style="width: 300px;" />
+        <img src="https://github.com/davipedro/davipedro/assets/131397328/bd8dd602-0061-4998-92ab-8b6eb39a7ffc" alt="🚧Under Construction🚧" style="width: 250px;" />
       </a>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<div>
     <h3>📫 How to reach me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/davipedros/"/>
