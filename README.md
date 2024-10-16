@@ -12,7 +12,7 @@
       Arquitetura de sistemas
     </td>
     <td>
-      Voluntariado
+      IoT
     </td>
   </tr>
 </table>
