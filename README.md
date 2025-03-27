@@ -2,17 +2,17 @@
 
 <h2>Web/Software Development</h2>
 
-<h3>Interessado em:</h3>
+<h3>Interested in:</h3>
 <table>
   <tr>
     <td>
-      Desenvolvimento de software
+      Software Development
     </td>
     <td>
-      Arquitetura de sistemas
+      Artificial Intelligence
     </td>
     <td>
-      IoT
+      Keep learning! 📖
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@
   <tr>
     <td align="right">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,js,react,html,css,vscode,mysql,postgres,postman,docker,git,bash,aws&theme=dark&perline=4" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,vue,js,html,css,git,mysql,postgres,docker&theme=dark&perline=4" alt="My Skills" />
       </a>
     </td>
     <td>
