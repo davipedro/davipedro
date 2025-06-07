@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m `@davipedro`</h1>
+<h1>👋 Hi, I’m @davipedro </h1>
 
 <h2>Web/Software Development</h2>
 
